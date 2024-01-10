@@ -1,0 +1,14 @@
+.
+.
+.
+.
+8)Backend Creation
+
+9)API Fetching in Frontend -  axios 
+    i)Admin Component
+    -> npm i axios 
+    -> import axios
+    -> function Creation - fetchData=()=>{}
+    ->useEffect - function call
+    ->state Creation - useState 
+    -> html convert
